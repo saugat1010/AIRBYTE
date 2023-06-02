@@ -1,0 +1,1 @@
+select count(*) as titanic_count from SAUGAT01TITANIC__CSV
